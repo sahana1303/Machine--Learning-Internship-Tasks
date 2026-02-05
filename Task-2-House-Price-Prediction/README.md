@@ -33,3 +33,13 @@ To predict house prices based on numerical features using machine learning regre
 
 ### Outcome
 The model successfully predicts house prices with reasonable accuracy using regression techniques.
+## How to Run
+1. Open `house_price_prediction.ipynb`
+2. Ensure `BostonHousing.csv` is in the same folder
+3. Run all cells to train and evaluate the model
+4. ## Future Improvements
+- Try advanced regression models
+- Apply feature scaling
+- Perform hyperparameter tuning
+- ## Data Split
+The dataset was split into training and testing sets to evaluate model performance.
